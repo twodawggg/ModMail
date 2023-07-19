@@ -19,7 +19,7 @@ For contact  join discord server
 https://discord.gg/9ppUPfDJuM
 
 
-Codet  .ramsy
+Codet  twodawg
 
 ### Public Usage
 > You must keep the credits and must mention this repository or links to code authors [@David Ian Black](https://github.com/ramsy-code),
