@@ -1,0 +1,11 @@
+{
+  "name": "modmail",
+  "version": "10.0.0",
+  "description": "Best ModMail Bot of discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ".ramsy",
+  "license": "ISC"
+}
